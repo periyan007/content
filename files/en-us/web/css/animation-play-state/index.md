@@ -26,7 +26,7 @@ Resuming a paused animation will start the animation from where it left off at t
 animation-play-state: running;
 animation-play-state: paused;
 
-/* Multiple animations */
+/* Multiple animations *
 animation-play-state: paused, running, running;
 
 /* Global values */
@@ -70,7 +70,7 @@ This animation is paused, but runs when you hover over it.
 
 ```css
 .box {
-  background-color: rebeccapurple;
+  background-color: yellow;
   border-radius: 10px;
   width: 100px;
   height: 100px;
